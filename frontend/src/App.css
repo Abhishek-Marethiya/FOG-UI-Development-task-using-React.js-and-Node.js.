@@ -210,7 +210,7 @@ color: rgba(46, 193, 172, 1);
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('/src/assets/images/rectangle-1.png') no-repeat center/cover;
+  background: url('/images/rectangle-1.png') no-repeat center/cover;
   filter: blur(3px); /* Apply blur effect */
   z-index: -1; /* Place it behind the content */
   
