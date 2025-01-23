@@ -16,7 +16,7 @@ function ProductGrid({filters ,onResultCountUpdate}) {
       }).toString();
   try {
      setIsLoading(true);
-      const response = await fetch(`https://fog-ui-development-task-backend-5llaip9oo.vercel.app/api/products?${query}`);
+      const response = await fetch(`http://fog-ui-development-task-backend-5llaip9oo.vercel.app/api/products?${query}`);
       const data = await response.json();
       setProducts(data.products);
       setTotal(data.total);
