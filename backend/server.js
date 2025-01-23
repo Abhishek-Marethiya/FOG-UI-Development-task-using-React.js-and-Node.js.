@@ -8,7 +8,7 @@ const PORT=process.env.SERVER_PORT || 8080
 
 const app = express();
 app.use(cors({
-    origin:['http://localhost:5173','*']
+    origin:['http://localhost:5173','https://fog-ui-development-task-frontend.vercel.app/']
 }));
 
 app.use(express.json());
