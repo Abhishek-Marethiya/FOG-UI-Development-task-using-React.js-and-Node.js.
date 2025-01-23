@@ -39,7 +39,7 @@ function ProductGrid({filters ,onResultCountUpdate}) {
   }, [filters, page]);
 
   if (isLoading) {
-        return <img src="/src/assets/icons/icons8-loading-96.png" alt="" className='loader' />
+        return <img src="/icons/icons8-loading-96.png" alt="" className='loader' />
       }
     
       if (products.length === 0) {

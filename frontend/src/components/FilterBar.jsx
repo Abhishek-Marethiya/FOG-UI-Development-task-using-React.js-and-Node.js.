@@ -27,7 +27,7 @@ function FilterBar({ onFilterChange, total }) {
     <div className="filter-bar">
       <div className="filter" onClick={toggleSidebar}>
         <img
-          src="/src/assets/icons/system-uicons-filtering.svg"
+          src="/icons/system-uicons-filtering.svg"
           alt="Filter Icon"
         />
         <span>Filter</span>
@@ -39,7 +39,7 @@ function FilterBar({ onFilterChange, total }) {
       >
         <div className="sidebar-header">
           <h3>Filters</h3>
-          <button onClick={toggleSidebar}><img src="/src/assets/icons/icons8-cross-48.png" alt="" /></button>
+          <button onClick={toggleSidebar}><img src="/icons/icons8-cross-48.png" alt="" /></button>
         </div>
         <div className="dropdown">
           <label>Brand</label>
@@ -110,17 +110,17 @@ function FilterBar({ onFilterChange, total }) {
         <div className="filter-bar-2">
           <div className="view-options filter-2">
             <img
-              src="/src/assets/icons/ci-grid-big-round.svg"
+              src="/icons/ci-grid-big-round.svg"
               alt="List View"
               className="listView"
             />
             <img
-              src="/src/assets/icons/bi-view-list.svg"
+              src="/icons/bi-view-list.svg"
               alt="Grid View"
               className="gridView"
             />
           </div>
-          <img src="/src/assets/icons/line-5.svg" alt="Separator" />
+          <img src="/icons/line-5.svg" alt="Separator" />
           <div className="results-info">
             <p>Showing {total} results</p>
           </div>

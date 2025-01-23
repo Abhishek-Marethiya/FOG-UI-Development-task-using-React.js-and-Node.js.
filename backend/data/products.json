@@ -5,7 +5,7 @@
     "description": "Stylish cafe chair",
     "category": "Chair",
     "brand": "Luxspace",
-    "image": "/src/assets/images/image-1.png",
+    "image": "/images/image-1.png",
     "currentPrice": "Rp 2.500.000",
     "originalPrice": "Rp 3.500.000",
     "label": { "type": "discount", "text": "-30%" }
@@ -16,7 +16,7 @@
     "description": "Elegant cafe chair",
     "category": "Chair",
     "brand": "IKEA",
-    "image": "/src/assets/images/image-2.png",
+    "image": "/images/image-2.png",
     "currentPrice": "Rp 2.700.000",
     "label": { "type": "new", "text": "New" }
   },
@@ -26,7 +26,7 @@
     "description": "Luxury big sofa",
     "category": "Sofa",
     "brand": "Luxspace",
-    "image": "/src/assets/images/image-3.png",
+    "image": "/images/image-3.png",
     "currentPrice": "Rp 7.000.000",
     "originalPrice": "Rp 8.500.000",
     "label": { "type": "discount", "text": "-18%" }
@@ -37,7 +37,7 @@
     "description": "Outdoor bar table and stool",
     "category": "Desk",
     "brand": "Luxspace",
-    "image": "/src/assets/images/image-4.png",
+    "image": "/images/image-4.png",
     "currentPrice": "Rp 500.000"
   },
   {
@@ -79,7 +79,7 @@
     "description": "Modern sectional sofa",
     "category": "Sofa",
     "brand": "Luxspace",
-    "image": "/src/assets/images/image-8.png",
+    "image": "/images/image-8.png",
     "currentPrice": "Rp 8.500.000",
     "originalPrice": "Rp 10.000.000",
     "label": { "type": "new", "text": "New" }
@@ -117,7 +117,7 @@
     "description": "Elegant chaise lounge",
     "category": "Sofa",
     "brand": "IKEA",
-    "image": "/src/assets/images/image-1.png",
+    "image": "/images/image-1.png",
     "currentPrice": "Rp 9.500.000",
     "originalPrice": "Rp 11.000.000",
     "label": { "type": "discount", "text": "-14%" }
@@ -161,7 +161,7 @@
     "description": "Cozy armchair",
     "category": "Chair",
     "brand": "IKEA",
-    "image": "/src/assets/images/image-7.png",
+    "image": "/images/image-7.png",
     "currentPrice": "Rp 1.200.000",
     "originalPrice": "Rp 1.500.000",
     "label": { "type": "new", "text": "New" }
@@ -215,7 +215,7 @@
       "description": "Comfortable recliner",
       "category": "Sofa",
       "brand": "Luxspace",
-      "image": "/src/assets/images/image-8.png",
+      "image": "/images/image-8.png",
       "currentPrice": "Rp 5.500.000",
       "originalPrice": "Rp 7.000.000",
       "label": { "type": "discount", "text": "-21%" }
@@ -257,7 +257,7 @@
       "description": "Luxury armchair",
       "category": "Chair",
       "brand": "IKEA",
-      "image": "/src/assets/images/image-1.png",
+      "image": "/images/image-1.png",
       "currentPrice": "Rp 2.200.000",
       "originalPrice": "Rp 2.500.000",
       "label": { "type": "discount", "text": "-12%" }
@@ -268,7 +268,7 @@
       "description": "Large sectional sofa",
       "category": "Sofa",
       "brand": "Luxspace",
-      "image": "/src/assets/images/image-5.png",
+      "image": "images/image-5.png",
       "currentPrice": "Rp 9.500.000"
     },
     {
@@ -326,7 +326,7 @@
       "description": "Comfortable armchair",
       "category": "Chair",
       "brand": "IKEA",
-      "image": "/src/assets/images/image-2.png",
+      "image": "/images/image-2.png",
       "currentPrice": "Rp 1.600.000",
       "originalPrice": "Rp 2.000.000",
       "label": { "type": "discount", "text": "-20%" }
@@ -369,7 +369,7 @@
       "description": "Classic study desk",
       "category": "Desk",
       "brand": "WoodCraft",
-      "image": "/src/assets/images/image-5.png",
+      "image": "/images/image-5.png",
       "currentPrice": "Rp 2.500.000"
     },
     {
@@ -378,7 +378,7 @@
       "description": "Sleek side table",
       "category": "Table",
       "brand": "IKEA",
-      "image": "/src/assets/images/image-6.png",
+      "image": "/images/image-6.png",
       "currentPrice": "Rp 1.800.000"
     },
     {
@@ -409,7 +409,7 @@
       "description": "Sleek office desk",
       "category": "Desk",
       "brand": "Luxspace",
-      "image": "/src/assets/images/image-2.png",
+      "image": "/images/image-2.png",
       "currentPrice": "Rp 2.000.000"
     }
   ]
