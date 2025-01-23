@@ -7,7 +7,7 @@ dotenv.config();
 const PORT=process.env.SERVER_PORT || 8080
 console.log('Environment Variables:', process.env.SERVER_PORT);
 const app = express();
-app.use(cors({ origin: ['http://localhost:5173','https://fog-ui-development-task-frontend.vercel.app']}));
+app.use(cors({ origin: 'https://fog-ui-development-task-frontend.vercel.app'}));
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }))
