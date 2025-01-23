@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1,
+    "name": "Syltherine",
+    "description": "Stylish cafe chair",
+    "category": "Chair",
+    "brand": "Luxspace",
+    "image": "/src/assets/images/image-1.png",
+    "currentPrice": "Rp 2.500.000",
+    "originalPrice": "Rp 3.500.000",
+    "label": { "type": "discount", "text": "-30%" }
+  },
+  {
+    "id": 2,
+    "name": "Leviosa",
+    "description": "Elegant cafe chair",
+    "category": "Chair",
+    "brand": "IKEA",
+    "image": "/src/assets/images/image-2.png",
+    "currentPrice": "Rp 2.700.000",
+    "label": { "type": "new", "text": "New" }
+  },
+  {
+    "id": 3,
+    "name": "Lolito",
+    "description": "Luxury big sofa",
+    "category": "Sofa",
+    "brand": "Luxspace",
+    "image": "/src/assets/images/image-3.png",
+    "currentPrice": "Rp 7.000.000",
+    "originalPrice": "Rp 8.500.000",
+    "label": { "type": "discount", "text": "-18%" }
+  },
+  {
+    "id": 4,
+    "name": "Respira",
+    "description": "Outdoor bar table and stool",
+    "category": "Desk",
+    "brand": "Luxspace",
+    "image": "/src/assets/images/image-4.png",
+    "currentPrice": "Rp 500.000"
+  },
+  {
+    "id": 5,
+    "name": "Grayson",
+    "description": "Classic armchair",
+    "category": "Chair",
+    "brand": "IKEA",
+    "image": "/src/assets/images/image-4-2.png",
+    "currentPrice": "Rp 1.500.000",
+    "originalPrice": "Rp 1.800.000",
+    "label": { "type": "new", "text": "New" }
+  },
+  {
+    "id": 6,
+    "name": "Alana",
+    "description": "Luxury dining table",
+    "category": "Table",
+    "brand": "IKEA",
+    "image": "/src/assets/images/image-4.png",
+    "currentPrice": "Rp 3.000.000",
+    "originalPrice": "Rp 4.200.000",
+    "label": { "type": "discount", "text": "-29%" }
+  },
+  {
+    "id": 7,
+    "name": "Venice",
+    "description": "Sleek office chair",
+    "category": "Chair",
+    "brand": "WoodCraft",
+    "image": "/src/assets/images/image-4-2.png",
+    "currentPrice": "Rp 2.000.000",
+    "originalPrice": "Rp 2.500.000",
+    "label": { "type": "new", "text": "New" }
+  },
+  {
+    "id": 8,
+    "name": "Haven",
+    "description": "Modern sectional sofa",
+    "category": "Sofa",
+    "brand": "Luxspace",
+    "image": "/src/assets/images/image-8.png",
+    "currentPrice": "Rp 8.500.000",
+    "originalPrice": "Rp 10.000.000",
+    "label": { "type": "new", "text": "New" }
+  },
+  {
+    "id": 9,
+    "name": "Aurora",
+    "description": "Adjustable study desk",
+    "category": "Desk",
+    "brand": "WoodCraft",
+    "image": "/src/assets/images/image-7.png",
+    "currentPrice": "Rp 1.800.000"
+  },
+  {
+    "id": 10,
+    "name": "Theo",
+    "description": "Minimalist stool",
+    "category": "Stool",
+    "brand": "WoodCraft",
+    "image": "/src/assets/images/image-6.png",
+    "currentPrice": "Rp 400.000"
+  },
+  {
+    "id": 11,
+    "name": "Aspen",
+    "description": "Modern bar table",
+    "category": "Desk",
+    "brand": "Luxspace",
+    "image": "/src/assets/images/image-5.png",
+    "currentPrice": "Rp 2.100.000"
+  },
+  {
+    "id": 12,
+    "name": "Emilia",
+    "description": "Elegant chaise lounge",
+    "category": "Sofa",
+    "brand": "IKEA",
+    "image": "/src/assets/images/image-1.png",
+    "currentPrice": "Rp 9.500.000",
+    "originalPrice": "Rp 11.000.000",
+    "label": { "type": "discount", "text": "-14%" }
+  },
+  {
+    "id": 13,
+    "name": "Porto",
+    "description": "Stylish lounge chair",
+    "category": "Chair",
+    "brand": "IKEA",
+    "image": "/src/assets/images/image-4-2.png",
+    "currentPrice": "Rp 1.800.000",
+    "originalPrice": "Rp 2.300.000",
+    "label": { "type": "discount", "text": "-22%" }
+  },
+  {
+    "id": 14,
+    "name": "Calisto",
+    "description": "Modern sectional couch",
+    "category": "Sofa",
+    "brand": "Luxspace",
+    "image": "/src/assets/images/image-3.png",
+    "currentPrice": "Rp 9.000.000",
+    "originalPrice": "Rp 11.000.000",
+    "label": { "type": "discount", "text": "-18%" }
+  },
+  {
+    "id": 15,
+    "name": "Brix",
+    "description": "Elegant dining table",
+    "category": "Table",
+    "brand": "WoodCraft",
+    "image": "/src/assets/images/image-4.png",
+    "currentPrice": "Rp 4.200.000",
+    "originalPrice": "Rp 5.000.000",
+    "label": { "type": "discount", "text": "-16%" }
+  },
+  {
+    "id": 16,
+    "name": "Fiora",
+    "description": "Cozy armchair",
+    "category": "Chair",
+    "brand": "IKEA",
+    "image": "/src/assets/images/image-7.png",
+    "currentPrice": "Rp 1.200.000",
+    "originalPrice": "Rp 1.500.000",
+    "label": { "type": "new", "text": "New" }
+  },
+  {
+    "id": 17,
+    "name": "Caden",
+    "description": "Retro bar stool",
+    "category": "Stool",
+    "brand": "WoodCraft",
+    "image": "/src/assets/images/image-5.png",
+    "currentPrice": "Rp 550.000",
+    "originalPrice": "Rp 700.000",
+    "label": { "type": "new", "text": "New" }
+  },
+  {
+    "id": 18,
+    "name": "Serena",
+    "description": "Luxury sectional sofa",
+    "category": "Sofa",
+    "brand": "Luxspace",
+    "image": "/src/assets/images/image-5-7.png",
+    "currentPrice": "Rp 10.000.000",
+    "originalPrice": "Rp 12.500.000",
+    "label": { "type": "discount", "text": "-20%" }
+  },
+  {
+    "id": 19,
+    "name": "Viva",
+    "description": "Modern study desk",
+    "category": "Desk",
+    "brand": "IKEA",
+    "image": "/src/assets/images/image-8.png",
+    "currentPrice": "Rp 1.800.000",
+    "originalPrice": "Rp 2.400.000",
+    "label": { "type": "new", "text": "New" }
+  },
+  {
+    "id": 20,
+    "name": "Rocco",
+    "description": "Comfortable office chair",
+    "category": "Chair",
+    "brand": "WoodCraft",
+    "image": "/src/assets/images/image-5-9.png",
+    "currentPrice": "Rp 2.200.000"
+  },
+
+    {
+      "id": 21,
+      "name": "Nera",
+      "description": "Comfortable recliner",
+      "category": "Sofa",
+      "brand": "Luxspace",
+      "image": "/src/assets/images/image-8.png",
+      "currentPrice": "Rp 5.500.000",
+      "originalPrice": "Rp 7.000.000",
+      "label": { "type": "discount", "text": "-21%" }
+    },
+    {
+      "id": 22,
+      "name": "Glenwood",
+      "description": "Classic wooden chair",
+      "category": "Chair",
+      "brand": "WoodCraft",
+      "image": "/src/assets/images/image-5-11.png",
+      "currentPrice": "Rp 1.800.000",
+      "originalPrice": "Rp 2.200.000",
+      "label": { "type": "discount", "text": "-18%" }
+    },
+    {
+      "id": 23,
+      "name": "Baylor",
+      "description": "Stylish office desk",
+      "category": "Desk",
+      "brand": "WoodCraft",
+      "image": "/src/assets/images/rectangle-1.png",
+      "currentPrice": "Rp 3.000.000"
+    },
+    {
+      "id": 24,
+      "name": "Revero",
+      "description": "Elegant dining table",
+      "category": "Table",
+      "brand": "WoodCraft",
+      "image": "/src/assets/images/image-8.png",
+      "currentPrice": "Rp 6.000.000",
+      "originalPrice": "Rp 7.200.000",
+      "label": { "type": "discount", "text": "-17%" }
+    },
+    {
+      "id": 25,
+      "name": "Serenity",
+      "description": "Luxury armchair",
+      "category": "Chair",
+      "brand": "IKEA",
+      "image": "/src/assets/images/image-1.png",
+      "currentPrice": "Rp 2.200.000",
+      "originalPrice": "Rp 2.500.000",
+      "label": { "type": "discount", "text": "-12%" }
+    },
+    {
+      "id": 26,
+      "name": "Titan",
+      "description": "Large sectional sofa",
+      "category": "Sofa",
+      "brand": "Luxspace",
+      "image": "/src/assets/images/image-5.png",
+      "currentPrice": "Rp 9.500.000"
+    },
+    {
+      "id": 27,
+      "name": "Brooklyn",
+      "description": "Comfortable lounge chair",
+      "category": "Chair",
+      "brand": "IKEA",
+      "image": "/src/assets/images/image-6.png",
+      "currentPrice": "Rp 1.700.000"
+    },
+    {
+      "id": 28,
+      "name": "Panama",
+      "description": "Modern armchair",
+      "category": "Chair",
+      "brand": "Luxspace",
+      "image": "/src/assets/images/image-7.png",
+      "currentPrice": "Rp 2.400.000",
+      "originalPrice": "Rp 3.000.000",
+      "label": { "type": "new", "text": "New" }
+    },
+    {
+      "id": 29,
+      "name": "Horizon",
+      "description": "Adjustable study chair",
+      "category": "Chair",
+      "brand": "IKEA",
+      "image": "/src/assets/images/image-8.png",
+      "currentPrice": "Rp 1.500.000"
+    },
+    {
+      "id": 30,
+      "name": "Vera",
+      "description": "Stylish TV stand",
+      "category": "Table",
+      "brand": "WoodCraft",
+      "image": "/src/assets/images/image-5-9.png",
+      "currentPrice": "Rp 2.000.000",
+      "originalPrice": "Rp 2.500.000",
+      "label": { "type": "discount", "text": "-20%" }
+    },
+    {
+      "id": 31,
+      "name": "Nova",
+      "description": "Sleek corner sofa",
+      "category": "Sofa",
+      "brand": "IKEA",
+      "image": "/src/assets/images/image-2.png",
+      "currentPrice": "Rp 8.000.000"
+    },
+    {
+      "id": 32,
+      "name": "Cairo",
+      "description": "Comfortable armchair",
+      "category": "Chair",
+      "brand": "IKEA",
+      "image": "/src/assets/images/image-2.png",
+      "currentPrice": "Rp 1.600.000",
+      "originalPrice": "Rp 2.000.000",
+      "label": { "type": "discount", "text": "-20%" }
+    },
+    {
+      "id": 33,
+      "name": "Riviera",
+      "description": "Stylish outdoor seating",
+      "category": "Desk",
+      "brand": "Luxspace",
+      "image": "/src/assets/images/rectangle-1.png",
+      "currentPrice": "Rp 3.000.000",
+      "originalPrice": "Rp 4.000.000",
+      "label": { "type": "discount", "text": "-25%" }
+    },
+    {
+      "id": 34,
+      "name": "Echo",
+      "description": "Elegant office chair",
+      "category": "Chair",
+      "brand": "WoodCraft",
+      "image": "/src/assets/images/image-3.png",
+      "currentPrice": "Rp 2.500.000",
+      "originalPrice": "Rp 3.000.000"
+    },
+    {
+      "id": 35,
+      "name": "Aspen",
+      "description": "Large dining table",
+      "category": "Table",
+      "brand": "Luxspace",
+      "image": "/src/assets/images/image-4.png",
+      "currentPrice": "Rp 5.500.000",
+      "originalPrice": "Rp 7.000.000",
+      "label": { "type": "new", "text": "New" }
+    },
+    {
+      "id": 36,
+      "name": "Bennett",
+      "description": "Classic study desk",
+      "category": "Desk",
+      "brand": "WoodCraft",
+      "image": "/src/assets/images/image-5.png",
+      "currentPrice": "Rp 2.500.000"
+    },
+    {
+      "id": 37,
+      "name": "Lumen",
+      "description": "Sleek side table",
+      "category": "Table",
+      "brand": "IKEA",
+      "image": "/src/assets/images/image-6.png",
+      "currentPrice": "Rp 1.800.000"
+    },
+    {
+      "id": 38,
+      "name": "Olympus",
+      "description": "Large sofa",
+      "category": "Sofa",
+      "brand": "Luxspace",
+      "image": "/src/assets/images/image-7.png",
+      "currentPrice": "Rp 12.000.000",
+      "originalPrice": "Rp 15.000.000",
+      "label": { "type": "new", "text": "New" }
+    },
+    {
+      "id": 39,
+      "name": "Valor",
+      "description": "Elegant lounge chair",
+      "category": "Chair",
+      "brand": "IKEA",
+      "image": "/src/assets/images/image-8.png",
+      "currentPrice": "Rp 2.200.000",
+      "originalPrice": "Rp 2.500.000",
+      "label": { "type": "discount", "text": "-12%" }
+    },
+    {
+      "id": 40,
+      "name": "Juno",
+      "description": "Sleek office desk",
+      "category": "Desk",
+      "brand": "Luxspace",
+      "image": "/src/assets/images/image-2.png",
+      "currentPrice": "Rp 2.000.000"
+    }
+  ]
+  
