@@ -46,7 +46,7 @@
     "description": "Classic armchair",
     "category": "Chair",
     "brand": "IKEA",
-    "image": "/src/assets/images/image-4-2.png",
+    "image": "/images/image-4.png",
     "currentPrice": "Rp 1.500.000",
     "originalPrice": "Rp 1.800.000",
     "label": { "type": "new", "text": "New" }
@@ -57,7 +57,7 @@
     "description": "Luxury dining table",
     "category": "Table",
     "brand": "IKEA",
-    "image": "/src/assets/images/image-4.png",
+    "image": "/images/image-4.png",
     "currentPrice": "Rp 3.000.000",
     "originalPrice": "Rp 4.200.000",
     "label": { "type": "discount", "text": "-29%" }
@@ -68,7 +68,7 @@
     "description": "Sleek office chair",
     "category": "Chair",
     "brand": "WoodCraft",
-    "image": "/src/assets/images/image-4-2.png",
+    "image": "/images/image-4-2.png",
     "currentPrice": "Rp 2.000.000",
     "originalPrice": "Rp 2.500.000",
     "label": { "type": "new", "text": "New" }
@@ -90,7 +90,7 @@
     "description": "Adjustable study desk",
     "category": "Desk",
     "brand": "WoodCraft",
-    "image": "/src/assets/images/image-7.png",
+    "image": "/images/image-7.png",
     "currentPrice": "Rp 1.800.000"
   },
   {
@@ -99,7 +99,7 @@
     "description": "Minimalist stool",
     "category": "Stool",
     "brand": "WoodCraft",
-    "image": "/src/assets/images/image-6.png",
+    "image": "/images/image-6.png",
     "currentPrice": "Rp 400.000"
   },
   {
@@ -108,7 +108,7 @@
     "description": "Modern bar table",
     "category": "Desk",
     "brand": "Luxspace",
-    "image": "/src/assets/images/image-5.png",
+    "image": "/images/image-5.png",
     "currentPrice": "Rp 2.100.000"
   },
   {
@@ -128,7 +128,7 @@
     "description": "Stylish lounge chair",
     "category": "Chair",
     "brand": "IKEA",
-    "image": "/src/assets/images/image-4-2.png",
+    "image": "/images/image-4-2.png",
     "currentPrice": "Rp 1.800.000",
     "originalPrice": "Rp 2.300.000",
     "label": { "type": "discount", "text": "-22%" }
@@ -139,7 +139,7 @@
     "description": "Modern sectional couch",
     "category": "Sofa",
     "brand": "Luxspace",
-    "image": "/src/assets/images/image-3.png",
+    "image": "/images/image-3.png",
     "currentPrice": "Rp 9.000.000",
     "originalPrice": "Rp 11.000.000",
     "label": { "type": "discount", "text": "-18%" }
@@ -150,7 +150,7 @@
     "description": "Elegant dining table",
     "category": "Table",
     "brand": "WoodCraft",
-    "image": "/src/assets/images/image-4.png",
+    "image": "/images/image-4.png",
     "currentPrice": "Rp 4.200.000",
     "originalPrice": "Rp 5.000.000",
     "label": { "type": "discount", "text": "-16%" }
@@ -172,7 +172,7 @@
     "description": "Retro bar stool",
     "category": "Stool",
     "brand": "WoodCraft",
-    "image": "/src/assets/images/image-5.png",
+    "image": "/images/image-5.png",
     "currentPrice": "Rp 550.000",
     "originalPrice": "Rp 700.000",
     "label": { "type": "new", "text": "New" }
@@ -183,7 +183,7 @@
     "description": "Luxury sectional sofa",
     "category": "Sofa",
     "brand": "Luxspace",
-    "image": "/src/assets/images/image-5-7.png",
+    "image": "/images/image-5-7.png",
     "currentPrice": "Rp 10.000.000",
     "originalPrice": "Rp 12.500.000",
     "label": { "type": "discount", "text": "-20%" }
@@ -194,7 +194,7 @@
     "description": "Modern study desk",
     "category": "Desk",
     "brand": "IKEA",
-    "image": "/src/assets/images/image-8.png",
+    "image": "/images/image-8.png",
     "currentPrice": "Rp 1.800.000",
     "originalPrice": "Rp 2.400.000",
     "label": { "type": "new", "text": "New" }
@@ -205,7 +205,7 @@
     "description": "Comfortable office chair",
     "category": "Chair",
     "brand": "WoodCraft",
-    "image": "/src/assets/images/image-5-9.png",
+    "image": "/images/image-5-9.png",
     "currentPrice": "Rp 2.200.000"
   },
 
@@ -226,7 +226,7 @@
       "description": "Classic wooden chair",
       "category": "Chair",
       "brand": "WoodCraft",
-      "image": "/src/assets/images/image-5-11.png",
+      "image": "/images/image-5-11.png",
       "currentPrice": "Rp 1.800.000",
       "originalPrice": "Rp 2.200.000",
       "label": { "type": "discount", "text": "-18%" }
@@ -237,7 +237,7 @@
       "description": "Stylish office desk",
       "category": "Desk",
       "brand": "WoodCraft",
-      "image": "/src/assets/images/rectangle-1.png",
+      "image": "/images/rectangle-1.png",
       "currentPrice": "Rp 3.000.000"
     },
     {
@@ -246,7 +246,7 @@
       "description": "Elegant dining table",
       "category": "Table",
       "brand": "WoodCraft",
-      "image": "/src/assets/images/image-8.png",
+      "image": "/images/image-8.png",
       "currentPrice": "Rp 6.000.000",
       "originalPrice": "Rp 7.200.000",
       "label": { "type": "discount", "text": "-17%" }
@@ -268,7 +268,7 @@
       "description": "Large sectional sofa",
       "category": "Sofa",
       "brand": "Luxspace",
-      "image": "images/image-5.png",
+      "image": "/images/image-4.png",
       "currentPrice": "Rp 9.500.000"
     },
     {
@@ -277,7 +277,7 @@
       "description": "Comfortable lounge chair",
       "category": "Chair",
       "brand": "IKEA",
-      "image": "/src/assets/images/image-6.png",
+      "image": "/images/image-6.png",
       "currentPrice": "Rp 1.700.000"
     },
     {
@@ -286,7 +286,7 @@
       "description": "Modern armchair",
       "category": "Chair",
       "brand": "Luxspace",
-      "image": "/src/assets/images/image-7.png",
+      "image":"/images/image-7.png",
       "currentPrice": "Rp 2.400.000",
       "originalPrice": "Rp 3.000.000",
       "label": { "type": "new", "text": "New" }
@@ -297,7 +297,7 @@
       "description": "Adjustable study chair",
       "category": "Chair",
       "brand": "IKEA",
-      "image": "/src/assets/images/image-8.png",
+      "image": "/images/image-8.png",
       "currentPrice": "Rp 1.500.000"
     },
     {
@@ -306,7 +306,7 @@
       "description": "Stylish TV stand",
       "category": "Table",
       "brand": "WoodCraft",
-      "image": "/src/assets/images/image-5-9.png",
+      "image": "/images/image-5-9.png",
       "currentPrice": "Rp 2.000.000",
       "originalPrice": "Rp 2.500.000",
       "label": { "type": "discount", "text": "-20%" }
@@ -317,7 +317,7 @@
       "description": "Sleek corner sofa",
       "category": "Sofa",
       "brand": "IKEA",
-      "image": "/src/assets/images/image-2.png",
+      "image": "/images/image-2.png",
       "currentPrice": "Rp 8.000.000"
     },
     {
@@ -337,7 +337,7 @@
       "description": "Stylish outdoor seating",
       "category": "Desk",
       "brand": "Luxspace",
-      "image": "/src/assets/images/rectangle-1.png",
+      "image": "/images/rectangle-1.png",
       "currentPrice": "Rp 3.000.000",
       "originalPrice": "Rp 4.000.000",
       "label": { "type": "discount", "text": "-25%" }
@@ -348,7 +348,7 @@
       "description": "Elegant office chair",
       "category": "Chair",
       "brand": "WoodCraft",
-      "image": "/src/assets/images/image-3.png",
+      "image": "/images/image-3.png",
       "currentPrice": "Rp 2.500.000",
       "originalPrice": "Rp 3.000.000"
     },
@@ -358,7 +358,7 @@
       "description": "Large dining table",
       "category": "Table",
       "brand": "Luxspace",
-      "image": "/src/assets/images/image-4.png",
+      "image": "/images/image-4.png",
       "currentPrice": "Rp 5.500.000",
       "originalPrice": "Rp 7.000.000",
       "label": { "type": "new", "text": "New" }
@@ -387,7 +387,7 @@
       "description": "Large sofa",
       "category": "Sofa",
       "brand": "Luxspace",
-      "image": "/src/assets/images/image-7.png",
+      "image": "/images/image-7.png",
       "currentPrice": "Rp 12.000.000",
       "originalPrice": "Rp 15.000.000",
       "label": { "type": "new", "text": "New" }
@@ -398,7 +398,7 @@
       "description": "Elegant lounge chair",
       "category": "Chair",
       "brand": "IKEA",
-      "image": "/src/assets/images/image-8.png",
+      "image": "/images/image-8.png",
       "currentPrice": "Rp 2.200.000",
       "originalPrice": "Rp 2.500.000",
       "label": { "type": "discount", "text": "-12%" }

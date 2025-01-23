@@ -5,10 +5,10 @@ const dotenv=require('dotenv');
 dotenv.config();
 
 const PORT=process.env.SERVER_PORT || 8080
-console.log('Environment Variables:', process.env.SERVER_PORT);
+
 const app = express();
 app.use(cors({
-    origin: 'https://fog-ui-development-task-frontend.vercel.app/'
+    origin:['http://localhost:5173','*']
 }));
 
 app.use(express.json());
