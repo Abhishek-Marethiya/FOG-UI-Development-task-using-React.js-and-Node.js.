@@ -7,12 +7,18 @@ dotenv.config();
 const PORT=process.env.SERVER_PORT || 8080
 
 const app = express();
+// app.use(cors({
+//     origin:['http://localhost:5173','https://fog-ui-development-task-frontend.vercel.app/']
+// }));
+app.use(express.json());
+// app.use(express.json());
 app.use(cors({
-    origin:['http://localhost:5173','https://fog-ui-development-task-frontend.vercel.app/']
+    origin: 'https://fog-ui-development-task-frontend.vercel.app', // Add your frontend origin here (no trailing slash)
+    methods: ['GET', 'POST', 'PUT', 'DELETE'], // Specify allowed HTTP methods
+    allowedHeaders: ['Content-Type', 'Authorization'], // Specify allowed headers
+    credentials: true, // Allow cookies and credentials
 }));
 
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }))
 // Import sample data
 const products = require('./data/products.json');
 

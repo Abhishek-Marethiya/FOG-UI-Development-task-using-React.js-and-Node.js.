@@ -16,8 +16,15 @@ function ProductGrid({filters ,onResultCountUpdate}) {
       }).toString();
   try {
      setIsLoading(true);
-      const response = await fetch(`https://fog-ui-development-task-backend.vercel.app/api/products?${query}`);
-      // const response = await fetch(`http://localhost:5000/api/products?${query}`);    
+      // const response = await fetch(`https://fog-ui-development-task-backend.vercel.app/api/products?${query}`);
+      // const response = await fetch(`http://localhost:5000/api/products?${query}`);   
+      const response = await fetch(`https://fog-ui-development-task-backend.vercel.app/api/products?${query}`, {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        credentials: 'include', // Include cookies if needed
+    }); 
       const data = await response.json();
       console.log(data);
       
