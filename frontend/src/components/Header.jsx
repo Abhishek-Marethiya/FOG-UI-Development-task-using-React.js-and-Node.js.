@@ -19,7 +19,7 @@ function Header() {
   return (
     <header className="header">
       <div className="logo">
-        <img src="/src/assets/images/meubel-house-logos-05.png" alt="Furniro Logo" />
+        <img src="./assets/images/meubel-house-logos-05.png" alt="Furniro Logo" />
         <h1>Furniro</h1>
       </div>
       <div className="hamburger" onClick={toggleMenu}>
